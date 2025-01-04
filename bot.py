@@ -10,7 +10,7 @@ from aiogram.types import FSInputFile
 
 logging.basicConfig(level=logging.INFO)
 
-bot = Bot(token="7070904386:AAEuaRJlW7Gp7ECLerJi15qKT5mFh_BYVzc")
+bot = Bot(token="-")
 dp = Dispatcher()
 
 
